@@ -110,7 +110,7 @@ instructs.
 
 Here we're creating a class called `CreateArtists` that inherits from
 ActiveRecord's `ActiveRecord::Migration` module. Within the class, we have an
-`up` method to define the code to execute when the migration is run and a
+`up` method to define the code to execute when the migration is run and 
 `down` method to define the code to execute when the migration is rolled back.
 Think of it like "do" and "undo."
 
